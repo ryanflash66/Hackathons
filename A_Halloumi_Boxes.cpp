@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>    // This pulls every standard library header at once. It is a competitive programming shortcut to use instead of adding libraries one by one
+#include <iostream> // For cin, cout
+#include <vector>   // For std::vector
+#include <algorithm> // For std::sort
 
 using namespace std;
 
